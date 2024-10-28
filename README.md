@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Cunha</h1>
 <h3 align="center">A Junior Developer from Ribeirão Preto</h3>
 
-- 🌱 I’m currently learning **C#, C++, VBA, JAVA, Pyhton**
+- 🌱 Working with **C#, Entity Framework, Microsoft SQL Server, Windows Forms with DotNET 8.0**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabrielCunhaPY](https://github.com/GabrielCunhaPY)
 
-- 📫 How to reach me **gabrielcunha3306@icloud.com**
+- 📫 How to reach me **gabrielcunha3301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
