@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabriel Cunha</h1>
-<h3 align="center">A Junior Developer from Ribeirão Preto</h3>
+<h1 align="center">I'm Gabriel Cunha</h1>
+<h3 align="center">A software engineer from Brazil</h3>
 
 - 🌱 Working with **C#, Entity Framework, Microsoft SQL Server, ASP.NET**
 
