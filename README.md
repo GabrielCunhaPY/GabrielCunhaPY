@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Cunha</h1>
 <h3 align="center">A Junior Developer from Ribeirão Preto</h3>
 
-- 🌱 Working with **C#, Entity Framework, Microsoft SQL Server, Windows Forms with DotNET 8.0**
+- 🌱 Working with **C#, Entity Framework, Microsoft SQL Server, ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabrielCunhaPY](https://github.com/GabrielCunhaPY)
 
